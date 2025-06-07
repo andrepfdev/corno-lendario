@@ -1,6 +1,8 @@
 # Projeto Corno Lendário
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/065527b7-9de3-4c52-833e-af8b369dc48e" width="200px">
+</p>
 
 <p align="center">
 <a href="#status"><img src="https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen" alt="Status: Em Desenvolvimento"></a>
@@ -23,7 +25,7 @@ Corno Lendário é uma API divertida e leve desenvolvida em Laravel para gerenci
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/corno-lendario.git
+git clone https://github.com/andrepfdev/corno-lendario.git
 cd corno-lendario
 composer install
 ```
