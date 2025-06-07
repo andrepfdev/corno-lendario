@@ -1,4 +1,6 @@
-<p align="center"><img src="assets/logo-corno.svg" width="400" alt="Projeto Corno Lendário logo featuring a stylized deer icon with a modern design against a minimalist background"></p>
+# Projeto Corno Lendário
+
+<img src="https://github.com/user-attachments/assets/065527b7-9de3-4c52-833e-af8b369dc48e" width="200px">
 
 <p align="center">
 <a href="#status"><img src="https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen" alt="Status: Em Desenvolvimento"></a>
